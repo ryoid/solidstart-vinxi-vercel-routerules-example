@@ -1,4 +1,6 @@
-# SolidStart
+# SolidStart Vercel Route Rutes
+
+SolidStart Vinxi example with route rules for Vercel to get per page ISR/SSG.
 
 Everything you need to build a Solid project, powered by [`solid-start`](https://start.solidjs.com);
 
